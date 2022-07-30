@@ -1,0 +1,47 @@
+*  {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+
+    position: relative;
+    overflow-x: hidden;
+}
+
+nav {
+    width: 100vw;
+}
+
+nav div {
+    width: auto;
+}
+
+nav div img {
+    width: 50px;
+}
+
+main {
+    height: 100%;
+}
+
+/* main {
+    min-height: calc(100vh - 72px - 190px);
+} */
+
+/* .contenedor-login {
+    width: auto;
+    height: auto;
+} */
+
+footer {
+    width: 100vw;
+    position:static;
+    left:0px;
+    bottom:0px;
+}
+
+
+
+
